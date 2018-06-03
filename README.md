@@ -2,7 +2,7 @@
 
 *Esta documentação reúne informações da API oficial da IDwall.* 
 
-Navegue pela documentação completa aqui: https://github.com/idwall/idwall-api/wiki
+Navegue pela documentação completa aqui: https://idwall.readme.io/
 
 ### O que a IDwall faz?
 
