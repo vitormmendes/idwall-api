@@ -62,4 +62,4 @@ O ```header``` de todas as requisições deve conter a chave:
 }
 ```
 
-onde ```{token}``` é a chave de acesso do seu usuário. Sua chave de acesso pode ser encontrada acessando nosso Dashboard, em [https://dashboard.idwall.co/conta](https://dashboard.idwall.co/conta).
+onde ```{token}``` é a chave de acesso do seu usuário. Sua chave de acesso pode ser encontrada acessando nosso Dashboard, em [https://dashboard.idwall.co/api](https://dashboard.idwall.co/api).
